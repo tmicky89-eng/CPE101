@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e0"
+  },
+  "brand": 1,
+  "category": "Porsche",
+  "model": "Sport car",
+  "year": "911 GT3",
+  "color": 2023,
+  "mileage": "Guards Red",
+  "engine": 2500,
+  "horsepower": "4.0L Naturally Aspirated Flat-6",
+  "transmission": 502,
+  "fuelType": "7-Speed PDK Automatic",
+  "price": "Gasoline",
+  "stock": 17990000,
+  "status": 1,
+  "createdAt": "Available"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e1"
+  },
+  "brand": 2,
+  "category": "Porsche",
+  "model": "Sport car",
+  "year": "718 Cayman GT4 RS",
+  "color": 2024,
+  "mileage": "Arctic Grey",
+  "engine": 850,
+  "horsepower": "4.0L Naturally Aspirated Flat-6",
+  "transmission": 493,
+  "fuelType": "7-Speed PDK Automatic",
+  "price": "Gasoline",
+  "stock": 15990000,
+  "status": 1,
+  "createdAt": "Available"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e2"
+  },
+  "brand": 3,
+  "category": "Porsche",
+  "model": "Sport car",
+  "year": "Taycan Black Edition",
+  "color": 2026,
+  "mileage": "Black",
+  "engine": 0,
+  "horsepower": "Electric Motor (Dual Motor AWD Setup Available)",
+  "transmission": 402,
+  "fuelType": "2-Speed Automatic",
+  "price": "Electric",
+  "stock": 7990000,
+  "status": 1,
+  "createdAt": "Available"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e3"
+  },
+  "brand": 4,
+  "category": "Ferrari",
+  "model": "Super car",
+  "year": "296 Speciale",
+  "color": 2025,
+  "mileage": "Rosso Corsa",
+  "engine": 0,
+  "horsepower": "2.9L Twin-Turbo V6 PHEV",
+  "transmission": 880,
+  "fuelType": "8-Speed F1 Dual-Clutch",
+  "price": "Plug-in Hybrid (Gasoline/Electric)",
+  "stock": 35000000,
+  "status": 1,
+  "createdAt": "Pre-order"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e4"
+  },
+  "brand": 5,
+  "category": "Ferrari",
+  "model": "Hypercar",
+  "year": "SF90 XX Spider",
+  "color": 2024,
+  "mileage": "Giallo Modena",
+  "engine": 0,
+  "horsepower": "4.0L Twin-Turbo V8 PHEV (with 3 Electric Motors)",
+  "transmission": 1016,
+  "fuelType": "8-Speed F1 Dual-Clutch",
+  "price": "Plug-in Hybrid (Gasoline/Electric)",
+  "stock": 33000000,
+  "status": 0,
+  "createdAt": "Sold Out"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e5"
+  },
+  "brand": 6,
+  "category": "Ferrari",
+  "model": "Hypercar",
+  "year": "Daytona SP3",
+  "color": 2023,
+  "mileage": "Rosso Imola",
+  "engine": 0,
+  "horsepower": "6.5L Naturally Aspirated V12 (Mid-Rear Mounted)",
+  "transmission": 829,
+  "fuelType": "7-Speed Dual-Clutch Automatic",
+  "price": "Gasoline",
+  "stock": 79000000,
+  "status": 0,
+  "createdAt": "Sold Out"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e6"
+  },
+  "brand": 7,
+  "category": "Lamborghini",
+  "model": "Super Sport V12 Hybrid",
+  "year": "Revuelto",
+  "color": 2024,
+  "mileage": "Arancio Apodis",
+  "engine": 0,
+  "horsepower": "6.5L Naturally Aspirated V12 PHEV",
+  "transmission": 1015,
+  "fuelType": "8-Speed Dual-Clutch",
+  "price": "Plug-in Hybrid (Gasoline/Electric)",
+  "stock": 47490000,
+  "status": 2,
+  "createdAt": "Available"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e7"
+  },
+  "brand": 8,
+  "category": "Lamborghini",
+  "model": "Super SUV",
+  "year": "Urus SE",
+  "color": 2025,
+  "mileage": "Verde Mantis",
+  "engine": 0,
+  "horsepower": "4.0L Twin-Turbo V8 PHEV",
+  "transmission": 800,
+  "fuelType": "8-Speed Automatic",
+  "price": "Plug-in Hybrid (Gasoline/Electric)",
+  "stock": 24990000,
+  "status": 3,
+  "createdAt": "Available"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e8"
+  },
+  "brand": 9,
+  "category": "Lamborghini",
+  "model": "Super Sports Car",
+  "year": "Temerario",
+  "color": 2025,
+  "mileage": " Blu Uranus",
+  "engine": 0,
+  "horsepower": " 4.0L Twin-Turbo V8 PHEV",
+  "transmission": 920,
+  "fuelType": "8-Speed Dual-Clutch",
+  "price": "Plug-in Hybrid (Gasoline/Electric)",
+  "stock": 22000000,
+  "status": 1,
+  "createdAt": "Pre-order"
+},
+{
+  "_id": {
+    "$oid": "6a585d8a37e8c3788f3102e9"
+  },
+  "brand": 10,
+  "category": "Aston Martin",
+  "model": "Sports Car",
+  "year": "Vantage",
+  "color": 2025,
+  "mileage": "Podium Green",
+  "engine": 0,
+  "horsepower": "4.0L Twin-Turbo V8",
+  "transmission": 665,
+  "fuelType": "8-Speed Automatic",
+  "price": "Gasoline",
+  "stock": 17900000,
+  "status": 2,
+  "createdAt": "Available"
+}]
